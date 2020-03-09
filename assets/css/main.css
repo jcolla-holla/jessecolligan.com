@@ -3368,3 +3368,7 @@ input, select, textarea {
 		border-radius: 4px;
 		margin-left: 375px;
 	}
+
+	.resume {
+		font-size: 24px;
+	}
