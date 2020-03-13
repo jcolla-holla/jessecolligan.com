@@ -3373,6 +3373,7 @@ input, select, textarea {
 		font-size: 24px;
 	}
 
+	/* these below don't seem to be working in remote env jessecolligan.com but does in local */
 	.footerSection {
 		display: flex;
 		width: 100%;
