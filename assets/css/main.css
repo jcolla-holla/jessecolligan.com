@@ -3372,3 +3372,15 @@ input, select, textarea {
 	.resume {
 		font-size: 24px;
 	}
+
+	.footerSection {
+		display: flex;
+		width: 100%;
+		justify-content: space-between;
+	}
+
+	.footerRight {
+		margin-right: 100px;
+	}
+
+
