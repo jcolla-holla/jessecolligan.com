@@ -3382,10 +3382,26 @@ input, select, textarea {
 		display: flex;
 		width: 100%;
 		justify-content: space-between;
+		flex-wrap: wrap;
 	}
 
 	.footerRight {
 		margin-right: 100px;
+	}
+
+	.ideaMsg {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.sharkGif {
+		width: 100%;
+	}
+
+	.sharkGif:hover {
+		background-image: url("../../gifs/gifs/rainbow_gif.gif");
+		border-radius: 4px;
 	}
 
 
