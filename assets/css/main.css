@@ -2575,7 +2575,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
@@ -3404,5 +3404,13 @@ input, select, textarea {
 		background-image: url("../../gifs/gifs/rainbow_gif.gif");
 		border-radius: 4px;
 	}
+
+	.tiles h3 {
+		margin:2px;
+	}
+	.tiles h6 {
+		margin:0px;
+	}
+
 
 
