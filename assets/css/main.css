@@ -3333,9 +3333,11 @@ input, select, textarea {
 
 
 	/* // #skills */
+
 	#skills .inner {
-		width: 100%;
-		padding-bottom: 20px;
+		padding-top: 60px;
+		border-top: solid 1px lightgray;
+		margin-bottom: 30px;
 	}
 
 	#skills .technology {
@@ -3378,6 +3380,11 @@ input, select, textarea {
 		font-size: 24px;
 	}
 
+	#footer {
+		border-top: 1px lightgray solid;
+
+	}
+
 	/* these below don't seem to be working in remote env jessecolligan.com but does in local */
 	.footerSection {
 		display: flex;
@@ -3411,6 +3418,7 @@ input, select, textarea {
 	.tiles h6 {
 		margin:0px;
 	}
+
 
 
 
