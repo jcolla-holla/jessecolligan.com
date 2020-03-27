@@ -3419,6 +3419,22 @@ input, select, textarea {
 		margin:0px;
 	}
 
+	/* my attempt to make the google map api logo get smaller to be responsive.  pre-built CSS is messing w it though... */
+	/* #GoogleMaps {
+		height:200px;
+		width:400px;
+		margin-left:60px;
+		margin-right:60px;
+	}
+
+	@media screen and (max-width: 900px) {
+		#GoogleMaps {
+			width: 200px;
+			height: 200px;
+			margin: 30px;
+		}
+	} */
+
 
 
 
