@@ -3370,9 +3370,7 @@ input, select, textarea {
 
 		/* //img styling */
 	#main .inner .headshot {
-		max-width: 300px;
 		width: 40%;
-		margin-right: 8%;
 		/* height: 330px; */
 		border-radius: 4px;
 		/* margin-left: 500px; */
